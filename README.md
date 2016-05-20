@@ -1,2 +1,4 @@
 # Test-Repo
-2e Test
+
+Dit is de wijziging in de readme file die gecommit moet worden.
+Een commit zet de wijzigingen in je Branch.
